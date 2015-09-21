@@ -1,0 +1,17 @@
+{
+  "name": "blank",
+  "version": "1.0.0",
+  "authors": [
+    "Yokota Kenji <mail@yokotakenji.me>"
+  ],
+  "description": "WordPress blank theme and provide you utility methods",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "velocity": "~1.2.2",
+    "lodash": "~3.10.1"
+  }
+}
